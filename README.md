@@ -1,3 +1,3 @@
 # scrapy
 scrapy on Marmiton reserach
-##spiders/posts_spiders.py
+##webscrap/spiders/posts_spiders.py
